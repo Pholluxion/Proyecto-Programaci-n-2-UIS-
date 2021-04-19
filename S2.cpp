@@ -1,7 +1,3 @@
-//Estudiantes
-
-//Jhoan Sebastian Pabon			(2172775)
-//Dylan Yesid Villalba Roa		(2172303)
 //Carlos Daniel Peñaloza Torres (2172336)
 
 #include "Header.h" // Incluir el Header
