@@ -1,4 +1,4 @@
-//Carlos Daniel Peñaloza Torres (2172336)
+//Daniel PeÃ±aloza (2172336)
 
 #include "Header.h" // Incluir el Header
 
@@ -24,7 +24,7 @@ int main () {
 	Serial* Arduino = new Serial("COM3"); // Definiendo puerto del arduino
 
 	
-    while(Arduino->IsConnected()){  // Verificar si el Arduino está conectado
+    while(Arduino->IsConnected()){  // Verificar si el Arduino estÃ¡ conectado
                 
 		Arduino->ReadData(palabra,sizeof(palabra)-1); // Capturar valor del puerto serial
 			
